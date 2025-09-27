@@ -15,6 +15,8 @@ dotnet test
 
 Chrome must be installed.
 
+Building the project will show all the tests in the test explorer and can be run all at once or saparately.
+
 # What the tests do
 
 Q1: Login with locked_out_user → expect error message.
