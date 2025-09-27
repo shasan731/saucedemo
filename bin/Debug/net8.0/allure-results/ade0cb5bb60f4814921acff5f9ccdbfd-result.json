@@ -1,0 +1,51 @@
+{
+  "uuid": "4495f39e-54a4-40b8-a923-c45f36b2e742",
+  "historyId": "ddd21332144595af8b5748fc4588aa57",
+  "testCaseId": "9d9351aa7e755f19008c86312ebf1d9c",
+  "fullName": "SauceDemoTests:SauceDemoTests.Tests.SauceDemoTests.StandardUser_CanPurchaseThreeItems()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET Long Running Task"
+    },
+    {
+      "name": "host",
+      "value": "Shahriars-MacBook-Air"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "SauceDemoTests.Tests.SauceDemoTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "Q2: Standard user purchases 3 items end-to-end"
+    },
+    {
+      "name": "package",
+      "value": "SauceDemoTests.Tests.SauceDemoTests"
+    }
+  ],
+  "links": [],
+  "name": "Q2: Standard user purchases 3 items end-to-end",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": ""
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1758973476128,
+  "stop": 1758973503166
+}

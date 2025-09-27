@@ -1,0 +1,51 @@
+{
+  "uuid": "8c964043-a032-4b59-b812-f9ff67fe5184",
+  "historyId": "cf6d03588cff21dd6dee200ce844fc1d",
+  "testCaseId": "df4b94480b2abcacb3d4d8ae7bd1a6d4",
+  "fullName": "SauceDemoTests:SauceDemoTests.Tests.SauceDemoTests.LockedOutUser_ShouldSeeErrorMessage()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET Long Running Task"
+    },
+    {
+      "name": "host",
+      "value": "SHAHRIARPC"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "SauceDemoTests.Tests.SauceDemoTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "Q1: Locked out user sees proper error"
+    },
+    {
+      "name": "package",
+      "value": "SauceDemoTests.Tests.SauceDemoTests"
+    }
+  ],
+  "links": [],
+  "name": "Q1: Locked out user sees proper error",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": ""
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1758976581054,
+  "stop": 1758976589207
+}

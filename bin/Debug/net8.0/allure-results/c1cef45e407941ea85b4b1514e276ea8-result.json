@@ -1,0 +1,67 @@
+{
+  "uuid": "c3b1e4cf-8212-4429-9cc4-e22946cf0920",
+  "historyId": "cf6d03588cff21dd6dee200ce844fc1d",
+  "testCaseId": "df4b94480b2abcacb3d4d8ae7bd1a6d4",
+  "fullName": "SauceDemoTests:SauceDemoTests.Tests.SauceDemoTests.LockedOutUser_ShouldSeeErrorMessage()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET Long Running Task"
+    },
+    {
+      "name": "host",
+      "value": "Shahriars-MacBook-Air"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "SauceDemoTests.Tests.SauceDemoTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "Q1: Locked out user sees proper error"
+    },
+    {
+      "name": "package",
+      "value": "SauceDemoTests.Tests.SauceDemoTests"
+    },
+    {
+      "name": "owner",
+      "value": "QA Team"
+    },
+    {
+      "name": "severity",
+      "value": "normal"
+    },
+    {
+      "name": "subSuite",
+      "value": "Negative Scenarios"
+    },
+    {
+      "name": "suite",
+      "value": "Login"
+    }
+  ],
+  "links": [],
+  "name": "Q1: Locked out user sees proper error",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": ""
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1758921622968,
+  "stop": 1758921628772
+}

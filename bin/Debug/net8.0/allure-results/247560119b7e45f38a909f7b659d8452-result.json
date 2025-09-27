@@ -1,0 +1,51 @@
+{
+  "uuid": "94680037-8ee2-4d46-82e2-756a68700bd1",
+  "historyId": "679e3516af408b57746e47753b9a2ab1",
+  "testCaseId": "8000eaa0e6266fcb16122aa8c2f851cb",
+  "fullName": "SauceDemoTests:SauceDemoTests.Tests.SauceDemoTests.PerformanceGlitchUser_CanPurchaseFirstItemSortedDescending()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET Long Running Task"
+    },
+    {
+      "name": "host",
+      "value": "SHAHRIARPC"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "SauceDemoTests.Tests.SauceDemoTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "Q3: Performance glitch user purchases first item (Z→A)"
+    },
+    {
+      "name": "package",
+      "value": "SauceDemoTests.Tests.SauceDemoTests"
+    }
+  ],
+  "links": [],
+  "name": "Q3: Performance glitch user purchases first item (Z→A)",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": ""
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1758976536117,
+  "stop": 1758976581026
+}

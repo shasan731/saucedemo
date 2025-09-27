@@ -1,0 +1,67 @@
+{
+  "uuid": "56a31797-6bdd-420c-9810-8dfbebd7711d",
+  "historyId": "dddf6de37eaeeaea21de5d178949c8ac",
+  "testCaseId": "05fd84e20d16609a04887534603b6c3a",
+  "fullName": "SauceDemoTests:SauceDemoTests.Tests.SauceDemoTests.AllScenarios_CanRunSequentially()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET Long Running Task"
+    },
+    {
+      "name": "host",
+      "value": "Shahriars-MacBook-Air"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "SauceDemoTests.Tests.SauceDemoTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "Smoke: All scenarios sequentially"
+    },
+    {
+      "name": "package",
+      "value": "SauceDemoTests.Tests.SauceDemoTests"
+    },
+    {
+      "name": "owner",
+      "value": "QA Team"
+    },
+    {
+      "name": "severity",
+      "value": "blocker"
+    },
+    {
+      "name": "subSuite",
+      "value": "End-to-End"
+    },
+    {
+      "name": "suite",
+      "value": "Smoke"
+    }
+  ],
+  "links": [],
+  "name": "Smoke: All scenarios sequentially",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": ""
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1758921495784,
+  "stop": 1758921567148
+}

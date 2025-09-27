@@ -1,0 +1,51 @@
+{
+  "uuid": "626a5c9d-9273-4183-a4a7-17f09793490e",
+  "historyId": "dddf6de37eaeeaea21de5d178949c8ac",
+  "testCaseId": "05fd84e20d16609a04887534603b6c3a",
+  "fullName": "SauceDemoTests:SauceDemoTests.Tests.SauceDemoTests.AllScenarios_CanRunSequentially()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET Long Running Task"
+    },
+    {
+      "name": "host",
+      "value": "SHAHRIARPC"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "SauceDemoTests.Tests.SauceDemoTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "All test scenarios"
+    },
+    {
+      "name": "package",
+      "value": "SauceDemoTests.Tests.SauceDemoTests"
+    }
+  ],
+  "links": [],
+  "name": "All test scenarios",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": ""
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1758977464425,
+  "stop": 1758977540241
+}
